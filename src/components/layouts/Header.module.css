@@ -1,0 +1,17 @@
+header {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width:  90%; /* 100%로 하면 노란줄이 양쪽 끝까지 보임 */
+  margin: 0 auto;
+  height: 130px;
+  box-shadow: 0 2px #f9bb00;
+}
+
+.headerMain {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}

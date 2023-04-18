@@ -1,0 +1,21 @@
+.topNav {
+  padding-top: 8px;
+  list-style: none;
+  display: flex;;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+
+.topNav li { 
+  margin: 0 2%;
+}
+
+.topNav li a { 
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.outTag {
+  cursor: pointer;
+}

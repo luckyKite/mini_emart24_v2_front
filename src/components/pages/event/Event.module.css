@@ -1,0 +1,15 @@
+.comment {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+
+.types {
+  float: right;
+  margin-right: 30px;
+}
+
+.eventProductList {
+  margin-top: 70px;
+}
