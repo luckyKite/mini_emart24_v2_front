@@ -26,7 +26,7 @@ function Cart() {
         allQty += item.qty;
       })
 
-      if (allQty != cartCount) {
+      if (allQty < cartCount) {
         Swal.fire('장바구니에 삭제된 상품이 있어요!');
       }
 
