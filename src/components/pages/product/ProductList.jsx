@@ -45,7 +45,7 @@ const handleOrder = () => {
     console.log(res)
     if (res.ok) {
       alert('주문 완료')
-      window.location.reload();
+      // window.location.reload();
     } else {
       alert("주문 실패")
     }
