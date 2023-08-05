@@ -1,11 +1,13 @@
-# Emart24
-
+# Emart24 - mini_emart24_v2_front
 ### 백엔드 프로젝트와의 연결을 위해 코드 수정한 프론트엔드 프로젝트 입니다.
 ### 이 프로젝트는 React를 적용하여 웹으로 구현하였습니다.
 ### emart24 홈페이지를 참고하였습니다.
+##
+## ● 미니프로젝트 프론트엔드 사용자페이지 영상
+<img width="80%" src="https://github.com/luckyKite/mini_emart24_v2_front/assets/122114197/e01182fe-a2e0-49e4-b2f1-b27dc4322205"/>
+<img width="80%" src="https://github.com/luckyKite/mini_emart24_v2_front/assets/122114197/facc2f25-fffa-4394-b688-121e2a484dc8"/>
 
 ##
-
 ## ● 웹 페이지에 적용된 기능
 
   ### 1. 회원가입
@@ -68,7 +70,7 @@
 
 ##
 
-## ● 도움을 주신분 : 🎖️강사님🎖️, 🎖️FT님🎖️, 🌱잡초벤저스🌱
+## ● 도움을 주신분 : 🎖️FT님🎖️, 🌱잡초벤저스🌱
 
 ##
 
